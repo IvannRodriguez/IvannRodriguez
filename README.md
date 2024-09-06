@@ -1,6 +1,6 @@
 - 👋 hola, me llamo Iván Rodriguez
 - 👀 estoy interesado en encontrar un empleo en programacion back end o front end ya sea orientaba a objetos o bases de datos
-- 🌱 actualmente estoy aprendiendo c# y c++, tengo una base de HTML y css
+- 🌱 actualmente tengo un nivel basico de python y c++, y buen nivel de HTML y CSS y certificacion de MySQL
 - 💞️ estoy buscando colaborar en un empleo que se relacione con la programacion 
 - 📫 llegar a mi a traves de mi email: rodriguezivann42@gmail.com
 - 😄 Pronombre: ivan 
